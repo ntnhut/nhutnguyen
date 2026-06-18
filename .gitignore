@@ -13,3 +13,4 @@ resources
 jsconfig.json
 go.sum
 yarn.lock
+.git.backup-20260618-151145/*

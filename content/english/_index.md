@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jump-start your Hugo project and save valuable time."
+  title: "Hi, I am Nhut Nguyen"
+  content: "I am a software engineer sharing practical notes on backend systems, developer tools, and lessons learned while building products."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate?aff=hugoplate"
+    label: "View My GitHub"
+    link: "https://github.com/ntnhut"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What You Will Find Here"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "This site is focused on clear, experience-based writing for engineers who want practical ideas they can apply quickly."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Engineering notes from real projects"
+      - "Backend architecture and API design discussions"
+      - "Developer tooling and workflow improvements"
+      - "Concise explanations over theory-heavy articles"
+      - "Focused on practical outcomes and maintainability"
+      - "Updated as I learn and refine approaches"
     button:
       enable: false
-      label: "Get Started Now"
+      label: ""
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Topics I Write About"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Most posts center around delivering software effectively with strong engineering fundamentals."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "System design for small and medium teams"
+      - "API patterns, validation, and observability"
+      - "Automation, CI/CD, and developer productivity"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Read the Blog"
+      link: "/blog"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "How I Approach Engineering"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "I prefer simple, reliable systems with clear trade-offs and enough flexibility for future change."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Start with clarity before optimization"
+      - "Automate repetitive work early"
+      - "Design for maintainability, not cleverness"
+      - "Measure impact and iterate continuously"
     button:
       enable: false
       label: ""
